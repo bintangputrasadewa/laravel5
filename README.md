@@ -1,5 +1,7 @@
-## Mahasiswa
-Jadi tugas ini saya kerjakan berdasarkan arahan yang sudah diberikan
+## Tentang Tugas
+Ini merupakan Tugas Besar dari Mata Kuliah : **Pemrograman Web**, dengan dosen pengampu Bapak Anton Prafanto, S.Kom, MT .
+Tugas ini menggunakan **Laravel** dan **RajaOngkir** sebagai "Pihak Ketika".
+Saya 
 - Nama    : Bintang Putra Sadewa
 - NIM     : 2209106110
 - Kelas   : Informatika C'22
