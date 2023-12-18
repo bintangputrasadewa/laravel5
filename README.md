@@ -1,5 +1,5 @@
 ## Tentang Tugas
-Tugas Besar dari Mata Kuliah : **Pemrograman Web**. Dosen pengampu Bapak **Anton Prafanto, S.Kom, MT**.
+Tugas Besar dari Mata Kuliah : **Pemrograman Web**.
 
 Tugas ini menggunakan [**Laravel** Versi 9.x](https://laravel.com/docs/9.x) dan [**RajaOngkir**](rajaongkir.com) sebagai "Pihak Ketiga".
 
