@@ -1,9 +1,9 @@
 ## Tentang Tugas
-Ini merupakan Tugas Besar dari Mata Kuliah : **Pemrograman Web**. Dosen pengampu Bapak **Anton Prafanto, S.Kom, MT** .
+Tugas Besar dari Mata Kuliah : **Pemrograman Web**. Dosen pengampu Bapak **Anton Prafanto, S.Kom, MT**.
 
 Tugas ini menggunakan **Laravel** dan **RajaOngkir** sebagai "Pihak Ketika".
 
-- Nama    : Bintang Putra Sadewa
+- Nama    : [Bintang Putra Sadewa](https://github.com/bintangputrasadewa)
 - NIM     : 2209106110
 - Kelas   : Informatika C'22
 - Pemrograman Web
