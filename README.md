@@ -1,7 +1,7 @@
 ## Tentang Tugas
 Tugas Besar dari Mata Kuliah : **Pemrograman Web**. Dosen pengampu Bapak **Anton Prafanto, S.Kom, MT**.
 
-Tugas ini menggunakan **Laravel** dan [**RajaOngkir**](rajaongkir.com) sebagai "Pihak Ketika".
+Tugas ini menggunakan [**Laravel** Versi 9.x](https://laravel.com/docs/9.x) dan [**RajaOngkir**](rajaongkir.com) sebagai "Pihak Ketiga".
 
 - Nama    : [Bintang Putra Sadewa](https://github.com/bintangputrasadewa)
 - NIM     : 2209106110
