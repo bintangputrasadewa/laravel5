@@ -68,3 +68,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Link Download Kebutuhan Laravel
+
+- [Visual Studio Code](https://code.visualstudio.com/Download)
+- [Composer](https://getcomposer.org/download/)
+- [Node JS](https://nodejs.org/en/download/current)
+- [Git](https://git-scm.com/downloads)
+- [Composer Extensio Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode)
