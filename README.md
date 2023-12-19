@@ -1,14 +1,17 @@
-## Tentang Tugas
-Tugas Besar dari Mata Kuliah : **Pemrograman Web**.
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-Tugas ini menggunakan [**Laravel** Versi 9.x](https://laravel.com/docs/9.x) dan [**RajaOngkir**](rajaongkir.com) sebagai "Pihak Ketiga".
+## Tentang Tugas Besar
+Mata Kuliah : **Pemrograman Web**
 
-- Nama    : [Bintang Putra Sadewa](https://github.com/bintangputrasadewa)
+Tugas ini bernama COKIR (Cek Ongkir) yang menggunakan [**Laravel Versi 9.x**](https://laravel.com/docs/9.x) dan [**RajaOngkir**](rajaongkir.com) sebagai "Pihak Ketiga".
+
+### Dikerjakan Oleh :
+
+- Nama    : [**Bintang Putra Sadewa**](https://github.com/bintangputrasadewa)
 - NIM     : 2209106110
 - Kelas   : Informatika C'22
-- Pemrograman Web
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+
 
 ## About Laravel
 
