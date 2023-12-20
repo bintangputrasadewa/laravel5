@@ -1,7 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 ## Tentang Tugas Besar
-Mata Kuliah : **Pemrograman Web**
+### Mata Kuliah : **Pemrograman Web**
 
 Tugas ini bernama COKIR (Cek Ongkir) yang menggunakan [**Laravel Versi 9.x**](https://laravel.com/docs/9.x) dan [**RajaOngkir**](rajaongkir.com) sebagai "Pihak Ketiga".
 
@@ -11,7 +11,15 @@ Tugas ini bernama COKIR (Cek Ongkir) yang menggunakan [**Laravel Versi 9.x**](ht
 - NIM     : 2209106110
 - Kelas   : Informatika C'22
 
+Untuk video penjelasan ada klik [Disini](https://youtu.be/KRAq12gnd2Y)
 
+## Link Download Kebutuhan Laravel
+
+- [Visual Studio Code](https://code.visualstudio.com/Download)
+- [Composer](https://getcomposer.org/download/)
+- [Node JS](https://nodejs.org/en/download/current)
+- [Git](https://git-scm.com/downloads)
+- [Composer Extension Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode)
 
 ## About Laravel
 
@@ -68,11 +76,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-## Link Download Kebutuhan Laravel
-
-- [Visual Studio Code](https://code.visualstudio.com/Download)
-- [Composer](https://getcomposer.org/download/)
-- [Node JS](https://nodejs.org/en/download/current)
-- [Git](https://git-scm.com/downloads)
-- [Composer Extensio Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode)
